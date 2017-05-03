@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\GJen\AndroidStudioProjects\TaxiBar_plate-regonition\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\GJen\AndroidStudioProjects\TaxiBar_plate-regonition\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_698ee5008c4a7d81c3307583a9838858d6d0f104\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GJen\.android\build-cache\1b367272daf19c57bbaa1df8ce9922c1a1018a44\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\GJen\AndroidStudioProjects\TaxiBar_plate-regonition\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a334480c6bde1eb9a21d7d7c96a64d012712579\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GJen\.android\build-cache\b94efaaca61682c15c838bcf41f2c06638850aba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="C:\Users\GJen\AndroidStudioProjects\TaxiBar_plate-regonition\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28b064b7e77e878db3b1f9c395ee2a0d3e157126\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GJen\.android\build-cache\55cc24935fd1c90babb83ebaba30f4bfb5517683\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\GJen\AndroidStudioProjects\TaxiBar_plate-regonition\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46862f0c1ceb137fff56f1dc0eb247723acebc8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GJen\.android\build-cache\9cfa17af5506933539b6ad92c64e853cce4cdbd6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\GJen\AndroidStudioProjects\TaxiBar_plate-regonition\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f39edca1b6fae22aa0a25903e8fcdef6254954b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GJen\.android\build-cache\eeddd037526764ef70cf0017c00a5ccb2bf0403a\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\GJen\AndroidStudioProjects\TaxiBar_plate-regonition\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_cc4cfa8ff1c584c3797cf11eba11a2e8ad17812d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GJen\.android\build-cache\eeddd037526764ef70cf0017c00a5ccb2bf0403a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\GJen\AndroidStudioProjects\TaxiBar_plate-regonition\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b5dcaec44cf650e67d9e89ae122a3b3dc306d33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GJen\.android\build-cache\e0b7c4908317d0b1afd46a6845bb9f14834a0146\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\GJen\AndroidStudioProjects\TaxiBar_plate-regonition\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_355158cd86f001f5d8b48c0593f88b816c177bb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GJen\.android\build-cache\51762794664748fdb231688c68046cbda7a3e4c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\GJen\AndroidStudioProjects\TaxiBar_plate-regonition\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8288149c425fc0e12414e452fad4c6c50ee3c8a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GJen\.android\build-cache\c82f747682614dc272af6b326727da81dc1d9274\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\GJen\AndroidStudioProjects\TaxiBar_plate-regonition\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_170f87875d0e4933ca7a2223b8c8345eb6e60568\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GJen\AndroidStudioProjects\TaxiBar_plate-regonition\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42ac7c996f4ce310b879cf9bb32d1437ff28ecef">
+        <dex dex="C:\Users\GJen\AndroidStudioProjects\TaxiBar_plate-regonition\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_078f9181ec6b9d7234c546bb233bfd4a1358a0b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GJen\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\GJen\AndroidStudioProjects\TaxiBar_plate-regonition\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_3c6a6e7bbd9a42489781b322acc1f1c2afec0075\classes.dex" />
+    </item>
+
+</items>

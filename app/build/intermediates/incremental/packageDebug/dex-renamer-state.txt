@@ -1,0 +1,7 @@
+#Wed May 03 11:38:37 CST 2017
+base.0=C\:\\Users\\GJen\\AndroidStudioProjects\\TaxiBar_plate-regonition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_078f9181ec6b9d7234c546bb233bfd4a1358a0b6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\GJen\\AndroidStudioProjects\\TaxiBar_plate-regonition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_698ee5008c4a7d81c3307583a9838858d6d0f104\\classes.dex
+base.1=C\:\\Users\\GJen\\AndroidStudioProjects\\TaxiBar_plate-regonition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_698ee5008c4a7d81c3307583a9838858d6d0f104
+file.0=C\:\\Users\\GJen\\AndroidStudioProjects\\TaxiBar_plate-regonition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_078f9181ec6b9d7234c546bb233bfd4a1358a0b6\\classes.dex
